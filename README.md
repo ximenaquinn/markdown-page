@@ -5,9 +5,9 @@
 
 I am not a huge fan of Markdown because it doesn't give the freedom that I need. I think that it is an easier way  of writing code to show off to friends. I think it could use a bit more design. I am just used to having more design to try and change it. 
 
-I feel like it is perfect for testing AI. This makes things a lot simpler to understand. It is also not as complicated as other things are to work out. Plus, it also matches how AI had put out its responses. Plus is how most AI is trained or made. 
+I feel like it is perfect for testing AI. This makes things a lot simpler to understand. It is also not as complicated as other things are to work out. Plus, it also matches how AI has put out its responses. Plus is how most AI is trained or made. 
 
-
+Markdown is used for documents before entering into HTML. Plus, it is the most basic language to learn how to do stuff. It is also the one that has not many rules, like two * will get you italics, and bold is ** on both sides. Plus, it has a place where the links are easy to put in, and photos are inserted using HTML. 
 
 <img src="https://d33wubrfki0l68.cloudfront.net/59f29676ef5e4d74685e14f801bbc10c2dbd3cef/c0688/lesson-images/markdown-1-markup.png">
 
